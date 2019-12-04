@@ -1,5 +1,5 @@
 {
-    "url": "https://hindilekhak.herokuapp.com",
+    "url": "https://hindilekhak.now.sh",
     "secret": "018d7b3e-d0a4-462d-99c3-726128577324",
     "database": "mongo",
     "port": 4567,
