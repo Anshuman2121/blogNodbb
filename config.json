@@ -1,0 +1,9 @@
+{
+    "url": "https://hindilekhak.herokuapp.com",
+    "secret": "018d7b3e-d0a4-462d-99c3-726128577324",
+    "database": "mongo",
+    "port": 4567,
+    "mongo": {
+	    "uri": "mongodb://anshuman:Anshu2121@cluster0-shard-00-00-lue0g.mongodb.net:27017/nodebb?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority"
+    }
+}
